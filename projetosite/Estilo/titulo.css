@@ -9,24 +9,25 @@ body{
     font-size: 14px;
 }
 
-#link{
-    color: white;
-    text-decoration-line: none;
-    text-align: center;
-    background-color: #eb5757;
-    border-radius: 30px;
-    width: 100px;
-    padding: 7px 24px;
-    margin: 0px 10px 0px 0px;
-}
-
 #titulo{
     background-color: #222;
     color: white;
-    padding: 18px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
 }
 
-#t1{
-    text-align: center;
-    font-size: 14px;
+#a0{
+    border-radius: 30px;
+    margin: 0 20px 0 0;
+}
+
+#a0:hover{
+    border: 1px solid #222;
+    box-shadow: 0 0 0 1px #222, 0 0 0 3px #eb5757;
+}
+
+#a11{
+    width: 225px;
 }
