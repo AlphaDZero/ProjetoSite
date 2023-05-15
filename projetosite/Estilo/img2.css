@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+}
+
+#img2{
+    height: 430px;
+    background-image: url(../Projeto/img21400.jpg);
+}
+
+#c1{
+    font-size: 18px;
+    text-align: left;
+    height: 430px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.103),#222222a2 99%);
+    color: white;
+    text-align: center;
+}
+
+#c13{
+    background-color: white;
+    color: #2A3330;
+    padding: 8px 18px;
+    border-radius: 5px;
+    position: relative;
+    text-decoration-line: none;
+    position: relative;
+    left: 25%;
+    top: 35%;
+}
+
+#c11{
+    width: 400px;
+    text-align: right;
+}
+
+#c11, #c12{
+    position: relative;
+    top: 28%;
+    left: 53%;
+}
+
+#c12{
+    width: 360px;
+    text-align: right;
+    padding: 15px 0px 0px 0px;
+    font-size: 17px;
+    position: relative;
+    left: 56%;
+}

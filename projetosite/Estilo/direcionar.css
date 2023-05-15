@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+}
+
+#direcionar{
+    background-color: #eb5757;
+}
+
+.link{
+    color: white;
+    text-decoration-line: none;
+}
+
+.li{
+    display: inline-block;
+    margin: 0px 10px 0px 0px;
+}
+
+#u{
+    width: 335px;
+    padding: 0px;
+    position: relative;
+    left: 65%;
+    bottom: 18px; 
+}
+
+#c{
+    width: 20px;
+}
+
+#carrinho{
+    background-color: #222;
+    padding: 10px 15px 2px 15px;
+    border-radius: 5px;
+}
+
+#car{
+    display: inline-block;
+    position: relative;
+    top: 3px;
+}
+
+#logo1{
+    position: relative;
+    left: 10%;
+    top: 13px;
+}

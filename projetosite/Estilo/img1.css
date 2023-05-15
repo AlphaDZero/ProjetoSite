@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+}
+
+#img1{
+    height: 410px;
+    background-image: url(../Projeto/img1400.jpg);
+}
+
+#caixa1{
+    font-size: 18px;
+    text-align: left;
+    height: 410px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.103),#222222b9 90%);
+    color: white;
+    text-align: center;
+}
+
+#a1 , #a2{
+    text-align: left;
+    width: 300px;
+    position: relative;
+    top: 25%;
+    left: 17%;
+}
+
+#a2{
+    font-size: 17px;
+    width: 360px;
+    padding: 15px 0px 0px 0px;
+}
+
+#a3{
+    border: 1px solid white;
+    color: white;
+    padding: 8px 18px;
+    border-radius: 5px;
+    position: relative;
+    top: 30%;
+    right: 28%;
+    text-decoration-line: none;
+}

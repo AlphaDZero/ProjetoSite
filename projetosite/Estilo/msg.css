@@ -1,0 +1,37 @@
+#msg{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#e1{
+    height: 475px;
+    width: 700px;
+    background-color: #222;
+    margin: 0 0 0 220px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#e12{
+    width: 315px;
+    color: white;
+    position: relative;
+    right: 15%;
+}
+
+.es{
+    padding: 10px 0;
+}
+
+#e11{
+    width: 280px;
+    height: 430px;
+    background-image: url(../Projeto/mulher280x430.jpg);
+    border-radius: 7px;
+    position: relative;
+    right: 32%;
+}
