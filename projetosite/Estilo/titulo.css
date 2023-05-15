@@ -20,7 +20,9 @@ body{
 
 #a0{
     border-radius: 30px;
-    margin: 0 20px 0 0;
+    margin: 0 15px 0 0;
+    padding: 5px 17px;
+    display: flex;
 }
 
 #a0:hover{
