@@ -10,7 +10,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 0 230px;
-    height: 50px;
+    height: 48px;
 }
 
 .link{
@@ -36,7 +36,7 @@
 
 #carrinho{
     background-color: #222;
-    padding: 4px 15px;
+    padding: 4px 15px 3px 15px;
 }
 
 #car{
