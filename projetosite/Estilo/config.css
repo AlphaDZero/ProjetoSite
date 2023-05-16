@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 *{
     margin: 0;
 }
@@ -20,4 +21,23 @@ h1{
 
 h2{
     font-size: 1.8em;
+}
+
+del{
+    color: #eb5757;
+}
+
+button{
+    background-color: #eb5757;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid #eb5757;
+    padding: 5px 17px;
+    transition: 0.2s;
+    margin: 10px 0 0 0;
+}
+
+button:hover{
+    border: 1px solid white;
+    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #eb5757;
 }

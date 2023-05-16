@@ -1,19 +1,15 @@
 #d1{
-    height: 100px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    padding: 0 225px;
 }
 
 #d11{
-    width: 140px;
-    position: relative;
-    left: 17%;
-    top: 25%;
-}
-
-#d12{
-    width: 200px;
-    position: relative;
-    left: 17%;
-    top: 29%;
+    height: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .molde{
@@ -39,21 +35,6 @@
 
 #d23{
     background-image: url(../Projeto/bolsa290.jpg);
-}
-
-button{
-    background-color: #eb5757;
-    color: white;
-    border-radius: 5px;
-    border: 1px solid #eb5757;
-    padding: 5px 17px;
-    transition: 0.2s;
-    margin: 10px 0 0 0;
-}
-
-button:hover{
-    border: 1px solid white;
-    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #eb5757;
 }
 
 #d24{
@@ -88,10 +69,6 @@ button:hover{
 #btnb:hover{
     border: 1px solid white;
     box-shadow: 0 0 0 1px #fff, 0 0 0 3px #222;
-}
-
-del{
-    color: #eb5757;
 }
 
 .dtm{
