@@ -6,8 +6,18 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    overflow: -moz-scrollbars-none; /*Firefox*/
+    -ms-overflow-style: none; /*Internet Explorer +10*/
+}
+
+body::-webkit-scrollbar{
+    width: 0! important; /*Chrome, Safari, versões mais recentes do Opera*/
 }
 
 h1{
     font-size: 2.7em;
+}
+
+h2{
+    font-size: 1.8em;
 }

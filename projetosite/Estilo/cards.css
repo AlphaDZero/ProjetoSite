@@ -1,37 +1,23 @@
 @charset "UTF-8";
 
-*{
-    margin: 0px;
-}
-
 #b1{
-    height: 152px;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 225px;
 }
 
 #b11{
-    width: 135px;
-    position: relative;
-    left: 17%;
-    top: 25%;
-}
-
-h2{
-    font-size: 1em;
+    height: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 #b12{
-    width: 335px;
-    position: relative;
-    left: 17%;
-    top: 29%;
-}
-
-#b13{
-    width: 400px;
+    width: 408px;
     text-align: justify;
-    position: relative;
-    left: 53.5%;
-    bottom: 8%;
 }
 
 #b2{
@@ -39,15 +25,6 @@ h2{
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-body::-webkit-scrollbar{
-    width: 0! important; /*Chrome, Safari, versões mais recentes do Opera*/
-}
-
-body{
-    overflow: -moz-scrollbars-none; /*Firefox*/
-    -ms-overflow-style: none; /*Internet Explorer +10*/
 }
 
 .caixas{

@@ -1,9 +1,5 @@
 @charset "UTF-8";
 
-*{
-    margin: 0px;
-}
-
 #img1{
     height: 410px;
     background-image: url(../Projeto/img1400.jpg);
