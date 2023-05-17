@@ -9,6 +9,9 @@
 
 .fl{
     display: inline-block;
-    padding: 0 8px;
-    width: 40px;
+    padding: 0 10px;
+}
+
+.icon{
+    width: 25px;
 }
